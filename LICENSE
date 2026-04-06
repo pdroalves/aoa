@@ -1,0 +1,13 @@
+Licensing
+
+This repository contains two independent CMake projects under different
+licenses:
+
+- `aoa-dgt/` (AOADGT) — GNU General Public License v3.0. The complete license
+  text is in `aoa-dgt/COPYING`.
+- `aoa-ntt/` (newckks) — MIT License. The complete license text is in
+  `aoa-ntt/LICENSE`.
+
+Each subdirectory’s license applies to the source files in that subtree. When
+you copy or distribute code, follow the terms of the license that covers the
+files you use.
